@@ -1,0 +1,7 @@
+path: .
+train: ./car_dataset/images/train/
+val: ./car_dataset/images/val/
+
+nc: 2
+
+names: ['down', 'up']
